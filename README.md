@@ -7,9 +7,9 @@ Dipendra Misra, Ming-Wei Chang, Xiaodong He, Wen-tau Yih in **EMNLP 2018**
 
 Code Coming Soon. For details please contact dkm@cs.cornell.edu
 
-# Docker Images
+### Docker Images
 
-Docker images for the main experiment are provided here: 
+Docker images for the main experiment are provided here (dev runs on the dev set and test runs on the test set): 
 
 https://hub.docker.com/r/dipendramisra/nsp/tags 
 
